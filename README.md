@@ -1,5 +1,3 @@
-# Data_analyst_task_7
-
 # Task 7: Sales Summary from SQLite using Python
 
 ## Overview
